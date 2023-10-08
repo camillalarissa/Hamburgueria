@@ -1,3 +1,11 @@
+
+![image](https://github.com/camillalarissa/Hamburgueria/assets/115382914/3999f4c6-a969-432e-b320-20e069753b53)
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
